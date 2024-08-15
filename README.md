@@ -1,6 +1,6 @@
 # Honeywell Total Comform interface
 
-This project is intended to be a pure Rust inferface to interact with Honwywell Total Comfort APIs
+This project is intended to be a pure Rust inferface to interact with Honewywell Total Comfort APIs
 
 ## Project setup
 Set the environmental variable `HONEYWELL_USERNAME` and `HONEYWELL_PASSWORD` according to your personal credential.
